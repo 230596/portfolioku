@@ -417,7 +417,7 @@ strong {
     padding: 0;
     display: block;
     position: absolute;
-    top: 30%;
+    top: 35%;
     transform: translate(0, -50%);
     font-family: 'unicons';
     font-size: 35px;
@@ -612,4 +612,12 @@ strong {
         display: inline-block;
         vertical-align: top;
     }
+}
+
+a.topoint{
+    color: #0c0c0d;
+}
+
+.contact-info-item{
+    padding-bottom: 27%;
 }

@@ -13,7 +13,7 @@
 
     // PROJECT CAROUSEL
     $('.owl-carousel').owlCarousel({
-        items: 3,
+        items: 2,
         loop: true,
         margin: 10,
         nav: true,
